@@ -17,12 +17,6 @@
 """Setup configuration."""
 
 import platform
-import subprocess
-from setuptools.command.install import install
-import requests
-import os
-import stat
-import hashlib
 import sys
 
 
